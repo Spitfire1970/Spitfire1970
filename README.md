@@ -5,7 +5,7 @@
 -->
 
 - 🗿 what i've done in the past: fullstack projects (some integrated with LLMs)! to make cool stuff and learn along the way
-- 🦾 my current tech stack: typescript react + express + mongoDB/postgres using prisma ORM + tailwind (+ docker sometimes)
+- 🦾 my current tech stack: pytorch + hugging face + MERN
 - 🌱 i’m currently working on my final year project related to deep learning for chess, mostly in pytorch
 - 🎃 checkout my personal website at https://kaddu.lol or https://nakul.one
 
