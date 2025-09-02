@@ -1,4 +1,4 @@
-## O₂⇒CO₂ Conversion Specialist
+### For competitive programming see https://leetcode.com/u/Spitfire1970
 
 <!--
 **Spitfire1970/Spitfire1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
